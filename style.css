@@ -29,7 +29,8 @@ h1, h2, h3 {
 }
 
 .project img, .project video {
-    max-width: 50%;
+    #//max-width: 50%;
+    width : 200px
     height: auto;
     display: block;
     margin: 0 auto 1em auto;
